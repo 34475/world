@@ -1,2 +1,2 @@
-# world
-hello
+# Python
+First Hello World Program
